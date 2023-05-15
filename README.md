@@ -1,6 +1,6 @@
 <!-- INTRO -->
 <p align="center">
-    <img src="https://github.com/horusyeung/horusyeung/blob/main/readme-assets/gitHub-banner.gif" alt="Horus's GitHub Banner" width="100%">
+    <img src="https://github.com/horusyeung/horusyeung/blob/main/readme-assets/github-banner.gif" alt="Horus's GitHub Banner" width="100%">
 </p>
 
 <a href="https://www.linkedin.com/in/horus-yeung-5421281a4/">LinkedIn</a> 
