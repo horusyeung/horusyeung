@@ -21,9 +21,7 @@
 <!-- GITHUB STATS -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=horusyeung&show_icons=true&theme=dark" width="48%" alt="Horus's Github stats-1"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=horusyeung&show_icons=true&theme=dark" width="48%" alt="Horus's Github stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=horusyeung&theme=dark" width="48%" alt="Horus's GitHub stats-2"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=horusyeung-lcjg&show_icons=true&theme=dark" width="48%" alt="Horus's Github stats-1"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horusyeung-lcjg&theme=dark" width="48%" alt="Horus's GitHub stats-2"/>
 </p>
 
