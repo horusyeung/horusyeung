@@ -8,7 +8,9 @@ I build high-performance fintech and trading platforms end-to-end — from syste
 
 ### 🛠 Tech Stack
 
-**Frontend:** React.js · Next.js · React Native · TypeScript · JavaScript
+**Programming Languages:** TypeScript · JavaScript · Python
+
+**Frontend:** React.js · Next.js · React Native
 
 **Backend:** Node.js · Nest.js · Express.js · GraphQL · REST APIs
 
