@@ -2,7 +2,7 @@
 
 **Senior Software Architect & Frontend Team Lead** based in Vancouver, BC, Canada.
 
-I build high-performance fintech and trading platforms end-to-end — from system design to App Store deployment. Currently leading a distributed engineering team across 4 countries, shipping 10+ web platforms and mobile apps serving users across 15 global markets.
+I build high-performance fintech and trading platforms end-to-end — from system design to deployment. Currently leading a distributed engineering team across 4 countries, shipping 10+ web platforms and mobile apps serving users across 15 global markets.
 
 ---
 
@@ -27,7 +27,7 @@ I build high-performance fintech and trading platforms end-to-end — from syste
 ### 🔗 Links
 
 - 💼 [LinkedIn](https://linkedin.com/in/horusyeung)
-- 🌐 [Website](https://horusyeung.com) *(coming soon)*
+- 🌐 [Website](https://horusyeung.com)
 
 ---
 
