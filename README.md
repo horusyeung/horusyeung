@@ -1,40 +1,42 @@
-# Hi, I'm Horus 👋
+# Hi, I'm Horus Yeung 👋
 
-**Senior Software Architect & Frontend Team Lead** based in Vancouver, BC, Canada.
+**Senior Full Stack Developer & Team Lead · Vancouver, BC, Canada**
 
-I build high-performance fintech and trading platforms end-to-end — from system design to deployment. Currently leading a distributed engineering team across 4 countries, shipping 10+ web platforms and mobile apps serving users across 15 global markets.
+I build web and mobile products, from system design to deployment. I have 6+ years of experience across fintech, e-commerce and automated software testing.
 
----
+**[Explore my portfolio →](https://www.horusyeung.com)** · [LinkedIn](https://www.linkedin.com/in/horusyeung) · [Writing](https://medium.com/@horusyeung)
 
-### 🛠 Tech Stack
+## What I work on
 
-**Programming Languages:** TypeScript · JavaScript · Python
+- **Web and mobile products.** Currently a Frontend Developer Team Lead at Juno Markets, leading a 5-person frontend team maintaining 10 web apps and 2 mobile apps used by 50K+ users across 15 markets.
+- **Architecture and delivery.** Full-stack development with Next.js and Nest.js, shared packages in Turborepo, and microservices using API gateways, RabbitMQ, PostgreSQL and AWS.
+- **Automated quality.** Unit, integration, end-to-end, smoke and regression testing, with pre-commit checks and CI/CD pipelines for reliable releases.
+- **AI-augmented engineering.** Agentic workflows that take requests from Slack to Jira, through AI review, implementation, automated checks and pull requests for human review. I build reusable agent tooling for feature work, testing and code review.
 
-**Frontend:** React.js · Next.js · React Native
+## Selected projects
 
-**Backend:** Node.js · Nest.js · Express.js · GraphQL · REST APIs
+| Project | What you'll find |
+| --- | --- |
+| [Personal portfolio](https://github.com/horusyeung/personal-portfolio-website) | My portfolio source: Next.js 16, React 19, MUI, GSAP motion and Playwright tests. [Visit the site →](https://www.horusyeung.com) |
+| [Project structures](https://github.com/horusyeung/project-structures) | Project structures and boilerplates for React, Next.js, React Native, Nest.js and Turborepo. |
+| [Full-stack starter](https://github.com/horusyeung/nextjs-nestjs-fullstack-starter) | A Next.js and Nest.js foundation with PostgreSQL, Prisma, Docker and CI/CD. |
+| [React Native starter](https://github.com/horusyeung/react-native-starter) | An Expo and TypeScript starter with navigation, state management and common mobile patterns. |
 
-**Database:** PostgreSQL · MongoDB · Redis
+## Technologies I work with
 
-**Architecture:** Microservices · RabbitMQ · API Gateway · Docker
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript · JavaScript · Python · SQL |
+| Web | React · Next.js · MUI |
+| Mobile | React Native · Expo · SwiftUI · Kotlin · Firebase |
+| Backend & architecture | Node.js · Nest.js · GraphQL · REST APIs · Microservices · RabbitMQ · Redis |
+| Databases | PostgreSQL · MongoDB |
+| Cloud & delivery | AWS · Docker · Turborepo · GitHub Actions · CI/CD · Husky |
+| Testing | Jest · Vitest · Playwright · Appium · XCUITest · Selenium · Tricentis Tosca · Postman |
+| AI & workflow | Claude Code · Codex · Cursor · CodeRabbit · n8n · Jira |
 
-**Cloud & DevOps:** AWS (Amplify · ECS · EC2 · RDS · S3) · GitHub Actions · CI/CD
+## Get in touch
 
-**AI & Tooling:** Claude Code · Cursor · CodeRabbit · n8n
+Based in Vancouver and open to local opportunities.
 
-**Testing:** Playwright · Cypress · Selenium
-
----
-
-### 🔗 Links
-
-- 💼 [LinkedIn](https://linkedin.com/in/horusyeung)
-- 🌐 [Website](https://horusyeung.com)
-
----
-
-### 📫 Get in Touch
-
-- Email: horusyeungg@gmail.com
-- Location: Vancouver, BC, Canada
-- Open to local opportunities
+[horusyeungg@gmail.com](mailto:horusyeungg@gmail.com) · [Contact me](https://www.horusyeung.com/contact)
